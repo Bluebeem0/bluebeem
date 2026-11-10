@@ -1,5 +1,3 @@
-![Infrastructure banner](assets/infrastructure-banner.svg)
-
 # Systems & Network Administrator Apprentice
 
 I'm a **Systems & Network Administrator apprentice at CNRS**, working within the Laboratory of Analysis and Applied Mathematics (**LAMA, UMR 8050**) in France. I'm also in the second year of a **BTS SIO SISR** degree.
